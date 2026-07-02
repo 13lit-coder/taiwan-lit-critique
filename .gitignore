@@ -1,0 +1,8 @@
+/analyses/
+/article/
+/deliverables/
+/corpus/
+/CLAUDE.md
+corpus_private/
+*.pdf
+.DS_Store
